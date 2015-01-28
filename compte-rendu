@@ -1,0 +1,10 @@
+projet existant à suivre et a héberger chez GitHub
+
+Tout d'abord, il faut créer un nouveau répertoire dans son espace GitHub, afin d'y déposer le fichier.
+
+Une fois cela fait, créer son projet et l'enregistrer dans le fichier souhaité.
+taper la commande git init, qui permet d'indiquer ou se venir chercher le fichier.
+entrer la commande git add suivi du nom du fichier afin d'indexer le fichier.
+effectuer la commande git commit -m "message" permet de valider le programme  avec "message" servant a apporter des indications.
+saisir la commande git remote add origin url du dossier de destination sur GitHub afin d'envoyer la fichier sur le dépot GitHub.
+enfin, entrer la commande git push -u origin master pour pouvoir pousser le fichier vers sa destination.
